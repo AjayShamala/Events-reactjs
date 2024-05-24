@@ -1,0 +1,27 @@
+.button-container {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.image {
+  width: 50%;
+}
+.border {
+  border-style: solid;
+  border-color: #2dd4bf;
+  border-width: 2px;
+}
+.container {
+  list-style-type: none;
+}
+.main-heading {
+  color: #ffffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.para {
+  color: #ffffffff;
+  font-family: 'Roboto';
+}

@@ -1,0 +1,23 @@
+.bg-contain {
+  background-color: #3a4b63;
+
+  width: 60%;
+}
+.bg-container {
+  display: flex;
+}
+.unorder-listss {
+  display: flex;
+  overflow-y: auto;
+  flex-wrap: wrap;
+}
+.headingss {
+  color: #ffffffff;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.consssss {
+ 
+  text-align: center;
+  width: 40%;
+}
